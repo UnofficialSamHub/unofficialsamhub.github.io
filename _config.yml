@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: SamHub
 description: Main place to find hubs for projects made by Sam
 show_downloads: false
+google_analytics: UA-164353176-1
