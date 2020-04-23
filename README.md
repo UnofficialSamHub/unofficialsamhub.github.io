@@ -1,2 +1,4 @@
-# unofficialsamhub.github.io
-coming soon to a web browser near you
+# Browse available hubs
+
+## Coming soon!
+Coming soon!
