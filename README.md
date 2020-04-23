@@ -6,6 +6,4 @@
 
 Hub for the Desktop Goose. The first hub.
 
-**Project:** *Desktop Goose*
-
-**Link:** *[desktopgooseunofficial.github.io/ResourceHub](https://desktopgooseunofficial.github.io/ResourceHub/)*
+**Project:** *[Desktop Goose]*(https://desktopgooseunofficial.github.io/ResourceHub/)
