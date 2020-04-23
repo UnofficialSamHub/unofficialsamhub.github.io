@@ -5,3 +5,5 @@
 ![Desktop Goose ResourceHub logo](https://i.imgur.com/zStH3F8.png)
 
 Hub for the Desktop Goose. The first hub. [Take a look](https://desktopgooseunofficial.github.io/ResourceHub/)!
+
+**Project:** *Desktop Goose*
