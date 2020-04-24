@@ -8,7 +8,7 @@ Hub for the Desktop Goose. The first hub.
 
 **Link:** *[desktopgooseunofficial.github.io/ResourceHub](https://desktopgooseunofficial.github.io/ResourceHub/)*
 
-## MeadowHub
+## MeadowLand
 
 DESKTOP MEADOW YES I DID THE THING HAHAHAHAHHAAAAAAAAAAAAAAAA
 
