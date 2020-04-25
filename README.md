@@ -2,7 +2,7 @@
 
 ## Desktop Goose ResourceHub
 
-Hub for the Desktop Goose. The first hub.
+The first hub.
 
 **Project:** *Desktop Goose*
 
