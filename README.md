@@ -10,8 +10,6 @@ Hub for the Desktop Goose. The first hub.
 
 ## MeadowLand
 
-DESKTOP MEADOW YES I DID THE THING HAHAHAHAHHAAAAAAAAAAAAAAAA
-
 **Project:** *Desktop Meadow*
 
 **Link:** *[unofficialsamhub.github.io/MeadowLand](https://unofficialsamhub.github.io/MeadowLand/)*
